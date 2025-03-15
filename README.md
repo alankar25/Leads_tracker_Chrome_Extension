@@ -4,6 +4,9 @@
 Leads Tracker is a simple Chrome extension that helps users collect and save leads while browsing the internet.  
 With an easy-to-use interface, users can input and store links, contacts, or notes, making it convenient to track leads in real time.  
 
+![image](https://github.com/user-attachments/assets/0c85a441-fa5f-43e6-8edb-b32c1ac52437)
+
+
 ## Features  
 ✅ Save input manually  
 ✅ Save the current browser tab as a lead  
